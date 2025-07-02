@@ -23,6 +23,7 @@ This report will serve as a baseline to identify regional performance gaps, cust
 
 
 -----------------START OF ANALYSIS------------------------------------
+
 TOOLS USED : EXCEL & POWERBI 
 
 1. Create a raw copy of dataset to start with exploratory data analysis
