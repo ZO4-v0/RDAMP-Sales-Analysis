@@ -22,12 +22,17 @@ Reported By: Joefer Jan Cosio
 
 <h2>Executive Summary</h2>
 
-<p>Ace Superstore has generated £3.17 million in revenue from 11,000 orders and 115,404 units sold between January 2023 and December 2025. The business maintained a healthy weighted profit margin of ≈ 67 % , however a gentle downward trajectory for 2025. 
-   *East Midlands* leads regional performance contributing 16% of overall revenue, while the *North‑East* lag significantly at ≈1%. Online transaction leads vs in‑store transactions (≈ 52 % vs 48 %) , with most regions choosing digital channel with the exemption on wales, where 57% of orders prefers in-store purchase. In Category Section, Outdoor and Kitchen products are racing for the top spot in total sales, with 12.08% and 11.82% respectively.</p>
+Ace Superstore has generated **£3.17 million** in revenue from **11,000** orders and **115,404** units sold between January 2023 and December 2025. The business maintained a healthy weighted profit margin of **≈ 67%** , however a gentle downward trajectory for 2025. 
+   **East Midlands** leads regional performance contributing 16% of overall revenue, while the **North‑East** lag significantly at ≈1%. **Online transaction** leads vs in‑store transactions (≈ 52 % vs 48 %) , with most regions choosing digital channel with the exemption on wales, where 57% of orders prefers in-store purchase. In Category Section, **Outdoor** and **Kitchen** products are racing for the top spot in total sales, with 12.08% and 11.82% respectively.
 
 <h2>KPI Overview ( 2025 vs 2024 ) </h2>
 
-<p> 2025 sales lean toward a downtrend in all areas, Sales are lower , Orders are decreasing , but average discounting had tigtened , helping to defend margins. </p>
+   +    2025 sales lean toward a downtrend in all areas, Sales are lower , Orders are decreasing , but average discounting had tigtened , helping to defend margins.
+       
+   +    Monthly revenue peaked mid‑2024 (≈ £155K in May) before downward trend in 2025.
+     
+   +    Profit margin has trended from ≈ 68 % in 2024 to ≈ 63 % in 2025. Signalling a shift in cost prices or low selling price or both.
+
 
 | Metric                 | 2025         | 2024        | Δ YoY        |
 |------------------------|--------------|-------------|--------------|
@@ -41,26 +46,41 @@ Reported By: Joefer Jan Cosio
 
 <h2>Regional Performance</h2>
 
-<p>East Midlands outperforms with ≈16 % of overall revenue, more than ≈14× the North‑East</p>
++    East Midlands outperforms with ≈16 % of overall revenue, more than ≈14× the North‑East
+  
++    North-East Region have the lowest overall revenue of £36,688 yet having the highest Avg. Discount price of 16.66%
+ 
+>    Recommendations : Target Promotions and Stock realignment on low revenue Regions (North-East & wales ) 
+    and investigate discount strategies to improve margins. Drill down on East-midlands success to fanout on low performing regions.
+  
+
+<h2>Top Product Insights</h2>
+
++   Top performer products with Over 100+ units sold and generated total revenue >£30K : Portable Refrigerator Freezer , Portable Solar Generator , Electric Bike , Compact Digital Camera , Herb Season‑Rice Seasoning
+ 
++   Under performing products with < 5 units sold and generated <£300 : Herb Season‑Spices , Flavor‑Rice Cakes , Canned Black Beans , Baking Soda , Cinnamon Raisin Bagels
+  
++   Outdoor products revenue totaled £383.15k, driven primarily by Camping Equipment (41.63%) and Outdoor Accessories (36.11%).
+  
++   Kitchen products revenue reached £374.66k, with key contributions from Small Appliances (22.70%) and Cooking Appliances (19.74%).
+
+>    Recommendations : Review pricing, promotions like bundle low-revenue items with high value products,
+    or discontinue SKUs with low output to free up inventory capacity and maintaining volume on top performing products.
 
 
+<h2>Product Category Margins</h2>
 
-   +    Outdoor product revenue totaled £383.15k, driven primarily by Camping Equipment (41.63%) and Outdoor Accessories (36.11%).
-   +    Kitchen product revenue reached £374.66k, with key contributions from Small Appliances (22.70%) and Cooking Appliances (19.74%).
-   
++ Top Perfromering Category : Grooming , Baby , Storage , Wearable tech , Home Security.
+  
++ Under Performing Category : Sports , Bicycles, Footwear , Apps, Furniture
 
-| Rank | Region               | Revenue    | %Sales   | Orders | Profit Margin  | Discount Rates  |
-|------|----------------------|------------|----------|--------|----------------|-----------------|
-| 1    | East Midlands        | £517,399   | 16.15 %  | 1,808  | 67.17 %        | 16.15%          |            
-| 2    | Yorkshire & Humber   | £434,742   | 14.05 %  | 1,445  | 66.68 %        | 15.34%          |
-| 3    | Scotland             | £385,426   | 11.86 %  | 1,280  | 66.85 %        | 15.35%          |
-| 9    | West Midlands        | £97,872    | 3.06 %   | 334    | 67.63 %        | 16.10%          |
-| 10   | Wales                | £44,368    | 1.44 %   | 316    | 67.98 %        | 15.72%          |
-| 11   | North East           | 36,688     | 1.03 %   | 174    | 66.88 %        | 16.66%          |
+>    Recommendations : Scale-High Margin Categories with low units sold / orders.
 
+<h2>Distribution Channel</h2>
 
++ **East Midlands** leads regional performance contributing 16% of overall revenue, while the **North‑East** lag significantly at ≈1%. **Online transaction** leads vs in‑store transactions (≈ 52 % vs 48 %) , with most regions choosing digital channel with the exemption on wales, where 57% of orders prefers in-store purchase.
 
-<h2>Product-Category Insights</h2>
+>    Recommendations : Can focus on digital marketing to capitalize higher online Average order.
 
 <h2>About The data</h2>
 <p>Ace Superstore Retail Dataset contain information of orders between Jan 2023 to Dec 2025.</p>
