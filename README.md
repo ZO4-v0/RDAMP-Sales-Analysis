@@ -22,12 +22,14 @@ Reported By: Joefer Jan Cosio
 
 <h2>Executive Summary</h2>
 
-Ace Superstore has generated **£3.17 million** in revenue from **11,000** orders and **115,404** units sold between January 2023 and December 2025. The business maintained a healthy weighted profit margin of **≈ 67%** , however a gentle downward trajectory for 2025. 
-   **East Midlands** leads regional performance contributing 16% of overall revenue, while the **North‑East** lag significantly at ≈1%. **Online transaction** leads vs in‑store transactions (≈ 52 % vs 48 %) , with most regions choosing digital channel with the exemption on wales, where 57% of orders prefers in-store purchase. In Category Section, **Outdoor** and **Kitchen** products are racing for the top spot in total sales, with 12.08% and 11.82% respectively.
++   Ace Superstore has generated **£3.17 million** in revenue from **11,000** orders and **115,404** units sold between January 2023 and December 2025. 
++   The business maintained a healthy weighted profit margin of **≈ 67%** , however a gentle downward trajectory for 2025. 
++   **East Midlands** leads regional performance contributing 16% of overall revenue, while the **North‑East** lag significantly at ≈1%. **Online transaction** leads vs in‑store transactions (≈ 52 % vs 48 %) , with most regions choosing digital channel with the exemption on wales, where 57% of orders prefers in-store purchase. 
++   In Category Section, **Outdoor** and **Kitchen** products are racing for the top spot in total sales, with 12.08% and 11.82% respectively.
 
 <h2>KPI Overview ( 2025 vs 2024 ) </h2>
 
-   +    2025 sales lean toward a downtrend in all areas, Sales are lower , Orders are decreasing , but average discounting had tigtened , helping to defend margins.
+   +    2025 sales lean toward a downtrend in most areas, Sales are lower , Orders are decreasing , but average discounting had tigtened , helping to defend margins.
        
    +    Monthly revenue peaked mid‑2024 (≈ £155K in May) before downward trend in 2025.
      
