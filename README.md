@@ -20,6 +20,48 @@ Reported By: Joefer Jan Cosio
    <li>Orgainized findings and recommendations in a professional report and Included at least 3 visualizations to support key insights.</li>
 </ol>
 
+<h2>Executive Summary</h2>
+
+<p>Ace Superstore has generated £3.17 million in revenue from 11,000 orders and 115,404 units sold between January 2023 and December 2025. The business maintained a healthy weighted profit margin of ≈ 67 % , however a gentle downward trajectory for 2025. 
+   *East Midlands* leads regional performance contributing 16% of overall revenue, while the *North‑East* lag significantly at ≈1%. Online transaction leads vs in‑store transactions (≈ 52 % vs 48 %) , with most regions choosing digital channel with the exemption on wales, where 57% of orders prefers in-store purchase. In Category Section, Outdoor and Kitchen products are racing for the top spot in total sales, with 12.08% and 11.82% respectively.</p>
+
+<h2>KPI Overview ( 2025 vs 2024 ) </h2>
+
+<p> 2025 sales lean toward a downtrend in all areas, Sales are lower , Orders are decreasing , but average discounting had tigtened , helping to defend margins. </p>
+
+| Metric                 | 2025         | 2024        | Δ YoY        |
+|------------------------|--------------|-------------|--------------|
+| Revenue                | **£360,542** | £1,527 399  | **‑£1.17 M** |
+| Orders                 | **1,194**    | 5,327       | **‑4,133**   |
+| Units Sold             | **12,615**   | 56,051      | **‑43,436**  |
+| Avg. Qty per Order     | **10.57%**   | 10.52%      | +0.5%        |   
+| Avg. Discount          | **11.17%**   | 17.08%      | -5.9%        |
+| Weighted Profit Margin | **63.27%**   | 67.57%      | **‑4.3**     |
+
+
+<h2>Regional Performance</h2>
+
+<p>East Midlands outperforms with ≈16 % of overall revenue, more than ≈14× the North‑East</p>
+
+
+
+   +    Outdoor product revenue totaled £383.15k, driven primarily by Camping Equipment (41.63%) and Outdoor Accessories (36.11%).
+   +    Kitchen product revenue reached £374.66k, with key contributions from Small Appliances (22.70%) and Cooking Appliances (19.74%).
+   
+
+| Rank | Region               | Revenue    | %Sales   | Orders | Profit Margin  | Discount Rates  |
+|------|----------------------|------------|----------|--------|----------------|-----------------|
+| 1    | East Midlands        | £517,399   | 16.15 %  | 1,808  | 67.17 %        | 16.15%          |            
+| 2    | Yorkshire & Humber   | £434,742   | 14.05 %  | 1,445  | 66.68 %        | 15.34%          |
+| 3    | Scotland             | £385,426   | 11.86 %  | 1,280  | 66.85 %        | 15.35%          |
+| 9    | West Midlands        | £97,872    | 3.06 %   | 334    | 67.63 %        | 16.10%          |
+| 10   | Wales                | £44,368    | 1.44 %   | 316    | 67.98 %        | 15.72%          |
+| 11   | North East           | 36,688     | 1.03 %   | 174    | 66.88 %        | 16.66%          |
+
+
+
+<h2>Product-Category Insights</h2>
+
 <h2>About The data</h2>
 <p>Ace Superstore Retail Dataset contain information of orders between Jan 2023 to Dec 2025.</p>
 
