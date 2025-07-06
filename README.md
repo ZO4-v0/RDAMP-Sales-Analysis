@@ -22,21 +22,21 @@ Reported By: Joefer Jan Cosio
 
 <h2>Executive Summary</h2>
 
-+   Ace Superstore has generated **£3.17 million** in revenue from **11,000** orders and **115,404** units sold between January 2023 and December 2025. 
++   Ace Superstore has generated **£3.17 million** in revenue from **11,000** orders and **115,404** units sold between January 2023 and March 2025. 
 +   The business maintained a healthy weighted profit margin of **≈ 67%**, however a gentle downward trajectory for 2025. 
 +   **East Midlands** leads regional performance contributing 16% of overall revenue, while the **North‑East** lag significantly at ≈1%. **Online transaction** leads vs in‑store transactions (≈ 52 % vs 48 %), with most regions choosing digital channel with the exemption on Wales, where 57% of orders prefers in-store purchase. 
 +   In the Category Section, **Outdoor** and **Kitchen** products are racing for the top spot in total sales, with 12.08% and 11.82% respectively.
 
 <h2>KPI Overview ( 2025 vs 2024 ) </h2>
 
-   +    2025 sales lean toward a downtrend in most areas, Sales are lower , Orders are decreasing , but average discounting had tightened , helping to defend margins.
+   +    2025 figures represent partial‑year performance; sales are seasonally lower, but average discounting has tightened, helping to defend margins.
        
-   +    Monthly revenue peaked mid‑2024 (≈ £155K in May) before downward trend in 2025.
+   +    Monthly revenue peaked mid‑2024 (≈ £155K in May) before gentle downward trend in 2025.
      
    +    Profit margin has trended from ≈ 68 % in 2024 to ≈ 63 % in 2025. Signaling a shift in cost prices or low selling price or both.
 
 
-| Metric                 | 2025         | 2024        | Δ YoY        |
+| Metric                 | Mar. 2025         | 2024        | Δ YoY        |
 |------------------------|--------------|-------------|--------------|
 | Revenue                | **£360,542** | £1,527,399  | **‑£1.17 M** |
 | Orders                 | **1,194**    | 5,327       | **‑4,133**   |
@@ -113,9 +113,9 @@ Reported By: Joefer Jan Cosio
 
   1. EXCEL
      + Data cleaning | String Manipulation | Descriptive Statistics | Data Aggregation         
-         > COUNT() , COUNTBLANK() , Istext() , Text() ,Date() , Right() , MID() , FIND() , LEFT() , VLOOKUP() , IF() , ISBLANK() , CONCAT() , MIN() , MAX()
+         > COUNT() , COUNTBLANK() , Istext() , Date(),  VLOOKUP() , IF() , ISBLANK() , CONCAT() , MIN() , MAX()
        
-         > PIVOT Table
+         > PIVOT Table , Text to Columns
          
 
   3. POWERBI
@@ -179,10 +179,10 @@ Reported By: Joefer Jan Cosio
       > Use Min() , Max() to check numerical outliers.
 4. Use the following Excel functions to check and clean `[order_date]` column, convert text to date format and find Year,month,date      
       >  =Istext(B2) : Rows Mixed with Text Format & Date Format
+
+      >  Text To Column function
       
-      >  =TEXT(B2,"MM/DD/YYYY") : Convert text to MM/DD/YYYY
-      
-      >  =Date(RIGHT(D2,4),MID(D2,FIND("/",D2,1)+1,2),LEFT(D2,FIND("/",D2,1)-1))
+      > Date(Year,Month,Day)
       
 5. Clean & Fill Missing Values on `[Country]` & `[Region]` using VLOOKUP to lookup correct data using `[Postal Code]` in store_location dataset.
       >  Region = VLOOKUP(F2,'Store locations'!$C:$E,3,FALSE)
@@ -327,19 +327,23 @@ Reported By: Joefer Jan Cosio
 
 <h3>TOP-LEVEL-SUMMARY</h3>
 
-![image](https://github.com/user-attachments/assets/e4dc3154-7152-4c64-8f86-1b048bbf37bd)
+![image](https://github.com/user-attachments/assets/0d6c4d36-de6a-4078-a6d7-470ad883c98d)
+
 
 <h3>REGIONAL_ANALYSIS</h3>
 
-![image](https://github.com/user-attachments/assets/19cc9a81-09a7-48c8-97cf-551280e7073a)
+![image](https://github.com/user-attachments/assets/2b21de5d-060e-43f5-95e5-fcdaea91d29b)
+
 
 <h3>PRODUCT_ANALYSIS</h3>
 
-![image](https://github.com/user-attachments/assets/42d58207-4671-4354-bd4d-3e93ede8a133)
+![image](https://github.com/user-attachments/assets/bc49a2dc-86cc-41dd-b7cf-d2977af7d731)
+
 
 <h3>FILTER PAGE </h3>
 
-![image](https://github.com/user-attachments/assets/55f57458-cbd5-4a1b-b3c8-dabb530e27f9)
+![image](https://github.com/user-attachments/assets/284aa3ce-cc71-41b0-a32e-84c95eb21377)
+
 
 
 <h2>Screenshots</h2>
