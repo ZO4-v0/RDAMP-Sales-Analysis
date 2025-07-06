@@ -366,3 +366,9 @@ Reported By: Joefer Jan Cosio
 
 ![image](https://github.com/user-attachments/assets/c35b0864-567a-4f4e-bdb4-88f7b033bacb)
 
+<h3>Date Cleaning Text to Columns</h3>
+
+![image](https://github.com/user-attachments/assets/ef83923d-a9cb-4f23-83ed-258a3ae78244)
+
+![image](https://github.com/user-attachments/assets/0fe9072e-898e-4fb7-85b7-a0f2d6d74b15)
+
