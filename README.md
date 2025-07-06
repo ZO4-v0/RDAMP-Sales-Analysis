@@ -17,23 +17,23 @@ Reported By: Joefer Jan Cosio
    <li>Identified top 5 best-selling products and underperforming products by revenue </li>
    <li>Provided insights into product categories with highest margins</li>
    <li>Analyzed sales distribution across Order Mode (Online vs In-Store)</li>
-   <li>Orgainized findings and recommendations in a professional report and Included at least 3 visualizations to support key insights.</li>
+   <li>Organized findings and recommendations in a professional report and Included at least 3 visualizations to support key insights.</li>
 </ol>
 
 <h2>Executive Summary</h2>
 
 +   Ace Superstore has generated **£3.17 million** in revenue from **11,000** orders and **115,404** units sold between January 2023 and December 2025. 
-+   The business maintained a healthy weighted profit margin of **≈ 67%** , however a gentle downward trajectory for 2025. 
-+   **East Midlands** leads regional performance contributing 16% of overall revenue, while the **North‑East** lag significantly at ≈1%. **Online transaction** leads vs in‑store transactions (≈ 52 % vs 48 %) , with most regions choosing digital channel with the exemption on wales, where 57% of orders prefers in-store purchase. 
-+   In Category Section, **Outdoor** and **Kitchen** products are racing for the top spot in total sales, with 12.08% and 11.82% respectively.
++   The business maintained a healthy weighted profit margin of **≈ 67%**, however a gentle downward trajectory for 2025. 
++   **East Midlands** leads regional performance contributing 16% of overall revenue, while the **North‑East** lag significantly at ≈1%. **Online transaction** leads vs in‑store transactions (≈ 52 % vs 48 %), with most regions choosing digital channel with the exemption on Wales, where 57% of orders prefers in-store purchase. 
++   In the Category Section, **Outdoor** and **Kitchen** products are racing for the top spot in total sales, with 12.08% and 11.82% respectively.
 
 <h2>KPI Overview ( 2025 vs 2024 ) </h2>
 
-   +    2025 sales lean toward a downtrend in most areas, Sales are lower , Orders are decreasing , but average discounting had tigtened , helping to defend margins.
+   +    2025 sales lean toward a downtrend in most areas, Sales are lower , Orders are decreasing , but average discounting had tightened , helping to defend margins.
        
    +    Monthly revenue peaked mid‑2024 (≈ £155K in May) before downward trend in 2025.
      
-   +    Profit margin has trended from ≈ 68 % in 2024 to ≈ 63 % in 2025. Signalling a shift in cost prices or low selling price or both.
+   +    Profit margin has trended from ≈ 68 % in 2024 to ≈ 63 % in 2025. Signaling a shift in cost prices or low selling price or both.
 
 
 | Metric                 | 2025         | 2024        | Δ YoY        |
@@ -50,7 +50,7 @@ Reported By: Joefer Jan Cosio
 
 +    East Midlands outperforms with ≈16 % of overall revenue, more than 14× the North‑East
   
-+    North-East Region have the lowest overall revenue of £36,688 yet having the highest Avg. Discount price of 16.66%
++    North-East Region has the lowest overall revenue of £36,688 yet has the highest Avg. Discount price of 16.66%
  
 >    Recommendations : Target Promotions and Stock realignment on low revenue Regions (North-East & wales ) 
     and investigate discount strategies to improve margins. Drill down on East-midlands success to fanout on low performing regions.
@@ -72,7 +72,7 @@ Reported By: Joefer Jan Cosio
 
 <h2>Product Category Margins</h2>
 
-+ Top Perfromering Category : Grooming , Baby , Storage , Wearable tech , Home Security.
++ Top Performing Category : Grooming , Baby , Storage , Wearable tech , Home Security.
   
 + Under Performing Category : Sports , Bicycles, Footwear , Apps, Furniture
 
