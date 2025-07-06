@@ -48,7 +48,7 @@ Reported By: Joefer Jan Cosio
 
 <h2>Regional Performance</h2>
 
-+    East Midlands outperforms with ≈16 % of overall revenue, more than ≈14× the North‑East
++    East Midlands outperforms with ≈16 % of overall revenue, more than 14× the North‑East
   
 +    North-East Region have the lowest overall revenue of £36,688 yet having the highest Avg. Discount price of 16.66%
  
@@ -123,8 +123,6 @@ Reported By: Joefer Jan Cosio
            >    Leveraged Column Profile, Column Quality, and Column Distribution for further data assessment and validation.
         + DAX Calculations
           >    Developed calculated columns and measures to support advanced analysis, ranking, filtering, and KPI tracking.
-        + KPI Cards with Conditional Formatting
-          >   Tracked key performance metrics year-over-year (2025 vs 2024), including:
         + Data Storytelling
            + Audience
                > This dashboard is tailored for key decision-makers, including: Head of Operations, Executive Teams, Senior Leadership, Regional Managers, and Marketing Teams.
@@ -146,26 +144,30 @@ Reported By: Joefer Jan Cosio
         + Data Visualization Analytics
            + Column Chart
               > Total Revenue By region : highlighting Best & Underperforming region using Rules
-           + Column Chart
+              
               > Total Revenue By Product : Highlighting Top5 and Bottom5 using DAX RANKX and Rules
            + Bar Chart
               > Total Revenue By Category : Highlighting Top5 and Bottom5 using DAX RANKX and Rules
-           + Bar Chart
+              
               > Total Revenue By Segment : Highlighting Top5 and Bottom5 using DAX RANKX and Rules
+              
+              > %Count of Order Mode By Region.
            + Donut Chart + Card
               > Total Revenue By Order Mode and total orders.
            + Table Chart
               > Summarize Total Order , Units Sold , %sales , Average Discount , Profit Margin ( weighted ) By region with Totals.
-           + Table Chart
+              
               > Identifying Top category , Top Segment , Top Product By Region Using DAX TOPN/RANKX & CALCULATE.
            + Ribbon Chart
               > Revenue Trend Year-on-Year By Region
-           + Bar Chart
-              > %Count of Order Mode By Region.
            + Scatter Plot
               > Profit Margin Vs Revenue By Category with bubble size representing Total Profit.
            + Area Chart
              >  Profit Margin Year-on-Year Trend
+           + KPI Chart
+             >  Key Metrics with conditional formula to compare Current Year(2025) vs Previous year (2024)
+             
+             >  Total units Sold , Total Orders , Average Qty Order , Overall
 
 <h2>Data Preparation and Extract-Transform-Load</h2>
 
