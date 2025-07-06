@@ -332,12 +332,13 @@ Reported By: Joefer Jan Cosio
 
 <h3>REGIONAL_ANALYSIS</h3>
 
-![image](https://github.com/user-attachments/assets/2b21de5d-060e-43f5-95e5-fcdaea91d29b)
+![image](https://github.com/user-attachments/assets/01123298-24a7-4484-a8ff-279a4e36f6a8)
 
 
 <h3>PRODUCT_ANALYSIS</h3>
 
-![image](https://github.com/user-attachments/assets/bc49a2dc-86cc-41dd-b7cf-d2977af7d731)
+![image](https://github.com/user-attachments/assets/988c4785-4d39-45a2-9d28-d043b80bf64f)
+
 
 
 <h3>FILTER PAGE </h3>
