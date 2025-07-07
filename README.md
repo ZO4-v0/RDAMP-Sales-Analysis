@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/77a08f3e-9023-4b1b-bed4-fa15fa424b19)
+![image](https://github.com/user-attachments/assets/c1877c0f-b69e-49e2-9c5d-a28b928c89df)
+
 <h1>Ace Superstore Sales Data Dashboard</h1>
 TASK-INT001-RDAMP <a href="https://app.powerbi.com/view?r=eyJrIjoiMTQ4NTczMWUtNjAwMy00ZjE0LWJjMDItZDA1NjI4NDY2ODFjIiwidCI6ImUxNjYwMTdmLWFmNTYtNDU2OC05NDg4LTgxNWUzZjZlZGNjNyJ9&pageName=30bc83d1934980295e63"> PowerBI Dashboard Link</a>
 
@@ -327,23 +328,27 @@ Reported By: Joefer Jan Cosio
 
 <h3>TOP-LEVEL-SUMMARY</h3>
 
-![image](https://github.com/user-attachments/assets/0d6c4d36-de6a-4078-a6d7-470ad883c98d)
+![image](https://github.com/user-attachments/assets/c1877c0f-b69e-49e2-9c5d-a28b928c89df)
+
 
 
 <h3>REGIONAL_ANALYSIS</h3>
 
-![image](https://github.com/user-attachments/assets/01123298-24a7-4484-a8ff-279a4e36f6a8)
+![image](https://github.com/user-attachments/assets/cc08b5f1-9793-42e6-a2d2-b0d8ff196de7)
+
 
 
 <h3>PRODUCT_ANALYSIS</h3>
 
-![image](https://github.com/user-attachments/assets/988c4785-4d39-45a2-9d28-d043b80bf64f)
+![image](https://github.com/user-attachments/assets/802a1a93-6934-4908-a6b2-0c08c6711380)
+
 
 
 
 <h3>FILTER PAGE </h3>
 
-![image](https://github.com/user-attachments/assets/284aa3ce-cc71-41b0-a32e-84c95eb21377)
+![image](https://github.com/user-attachments/assets/52a7f144-bb2d-4f2e-b4dc-b82dcda186c5)
+
 
 
 
