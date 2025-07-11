@@ -93,7 +93,7 @@ Reported By: Joefer Jan Cosio
 | Column Name    | Data Type | Description                                                                 |
 |----------------|-----------|-----------------------------------------------------------------------------|
 | Order ID       | String    | Unique identifier for each order transaction                                |
-| Order Date     | Date      | Date when the order was placed (may include past and recent years) mm/dd/yyyy |
+| Order Date     | Date      | Date when the order was placed  mm/dd/yyyy                                  |
 | Order Mode     | String    | Channel through which the order was made: “Online” or “In-Store”            |
 | Customer ID    | String    | Unique identifier for the customer placing the order                        |
 | City           | String    | Customer’s city (some missing values may occur)                             |
